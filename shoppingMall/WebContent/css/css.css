@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+table {
+	margin: auto;
+}
+
+h3 {
+	text-align: center;
+}
+
+header {
+	text-align: center;
+	padding: 5px 0px;
+	background: #80ff80;
+}
+
+nav {
+	padding: 5px 0px;
+	background: #ffff80;
+}
+
+nav > ul > li {
+	display: inline-block;
+	margin-left: 15px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+footer {
+	padding: 5px 0px;
+	background: #ff8080;
+}
